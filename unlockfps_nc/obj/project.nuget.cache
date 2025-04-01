@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Su3ZnpNBK/c=",
+  "success": true,
+  "projectFilePath": "D:\\genshin-fps-unlock-netcore\\genshin-fps-unlock-cn\\unlockfps_nc\\unlockfps_nc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iLu-N\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\iLu-N\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\iLu-N\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

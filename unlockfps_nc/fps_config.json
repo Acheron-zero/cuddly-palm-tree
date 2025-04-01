@@ -1,0 +1,22 @@
+{
+  "GamePath": "D:\\miHoYo Launcher\\games\\Genshin Impact Game\\YuanShen.exe",
+  "AutoStart": false,
+  "AutoClose": false,
+  "PopupWindow": false,
+  "Fullscreen": true,
+  "UseCustomRes": false,
+  "IsExclusiveFullscreen": true,
+  "StartMinimized": false,
+  "UsePowerSave": false,
+  "SuspendLoad": false,
+  "UseMobileUI": false,
+  "UseHDR": true,
+  "FPSTarget": 145,
+  "CustomResX": 1920,
+  "CustomResY": 1080,
+  "MonitorNum": 1,
+  "Priority": 3,
+  "AdditionalCommandLine": "",
+  "Affinity": 0,
+  "DllList": []
+}
