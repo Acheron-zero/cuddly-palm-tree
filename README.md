@@ -1,7 +1,7 @@
 # 原神FPS解锁器  
 ●此工具可以帮助你解锁游戏中60FPS限制  
 
-●这是一个外部程序，使用WriteProcessMemory将所需的fps写入游戏  
+●这是一个外部程序，使用**WriteProcessMemory**将所需的fps写入游戏  
 
 ●已包含手柄保护旁路  
 
@@ -13,5 +13,5 @@
 
 ●如您不想自己编译，可以在“Release”下载编译后的文件  
 
-●SignPath.io提供的免费代码签名  
+-SignPath.io提供的免费代码签名  
 
