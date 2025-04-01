@@ -3,7 +3,7 @@
 <p style="line-height: 1.6; margin-bottom: 10em;">
 ●这是一个外部程序，使用WriteProcessMemory将所需的fps写入游戏  
 
-●已包含手柄保护旁路  
+>●已包含手柄保护旁路  
 
 ●不需要驱动程序进行R/W访问  
 
